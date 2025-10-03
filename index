@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Claudia Espósito"
+---
+
+<div style="text-align:center">
+
+<img src="assets/img/profile.jpg" alt="Claudia Espósito" width="180" style="border-radius:50%; margin-bottom:20px;" />
+
+# Claudia Espósito  
+
+**Investigadora predoctoral en CIC biomaGUNE**  
+Especializada en imagen molecular en modelos de Alzheimer  
+
+Soy investigadora predoctoral en el grupo de Jordi en **CIC biomaGUNE**.  
+Trabajo con PET/MRI/MRS, estudios de comportamiento cognitivo,  
+y análisis ex vivo (IHC, ELISA, multiplex, etc.).  
+
+---
+
+<p style="margin-top:25px">
+  <a href="cv.md"><button style="padding:10px 20px; margin:5px; border:none; border-radius:8px; background:#0077b6; color:white;">CV</button></a>
+  <a href="publications.md"><button style="padding:10px 20px; margin:5px; border:none; border-radius:8px; background:#00b4d8; color:white;">Publicaciones</button></a>
+  <a href="projects.md"><button style="padding:10px 20px; margin:5px; border:none; border-radius:8px; background:#90e0ef; color:black;">Proyectos</button></a>
+  <a href="https://www.linkedin.com/in/claudia-esposito" target="_blank"><button style="padding:10px 20px; margin:5px; border:none; border-radius:8px; background:#023e8a; color:white;">LinkedIn</button></a>
+</p>
+
+</div>
